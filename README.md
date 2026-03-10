@@ -78,12 +78,6 @@ const fayyaz = {
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamadFayyaz&show_icons=true&theme=github_dark&hide_border=true&title_color=C8A96E&icon_color=C8A96E&cache_seconds=1800" alt="GitHub Stats"/>
-    &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadFayyaz&layout=compact&theme=github_dark&hide_border=true&title_color=C8A96E&cache_seconds=1800" alt="Top Languages"/>
-</div>
-
-<div align="center">
 
 ![Streak](https://streak-stats.demolab.com?user=MohamadFayyaz&theme=github-dark-blue&hide_border=true&ring=C8A96E&fire=C8A96E&currStreakLabel=C8A96E)
 
