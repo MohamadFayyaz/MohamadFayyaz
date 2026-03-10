@@ -58,6 +58,9 @@ const fayyaz = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Github Action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
 
 ---
 
@@ -65,20 +68,19 @@ const fayyaz = {
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [🕳️ Pothole Detection](https://github.com/MohamadFayyaz/pothole-detection) | Tugas Akhir — Computer Vision app to detect road potholes using YOLOv8 & geolocation | Python · Flask · YOLOv8 |
+| [🏙️ CityCare App](https://github.com/MohamadFayyaz/cityCareApp) | Civic reporting app for public facility damage — warga to pemerintah kota | JavaScript · Webpack |
 | [🩺 Diablyze](https://github.com/MohamadFayyaz/diablyze-fe) | Health-tech app for diabetes analysis & monitoring | TypeScript |
-| [📋 Trello Clone](https://github.com/MohamadFayyaz/Trello) | Project management board with drag-and-drop | PHP |
-| [🍔 Krabby Patty](https://github.com/MohamadFayyaz/krabby-patty) | Backend web app exploring MVC patterns | PHP |
-| [📝 Web Assessment](https://github.com/MohamadFayyaz/asesmenweb) | Interactive web assessment platform | JavaScript |
+| [🌐 Zulfaniz](https://github.com/hisyamabilkhoir/zulfaniz) | Full-stack web app built with CodeIgniter 4 — collaborative project | PHP · CodeIgniter 4 |
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamadFayyaz&show_icons=true&theme=github_dark&hide_border=true&title_color=C8A96E&icon_color=C8A96E"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadFayyaz&layout=compact&theme=github_dark&hide_border=true&title_color=C8A96E"/>
-
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohamadFayyaz&show_icons=true&theme=github_dark&hide_border=true&title_color=C8A96E&icon_color=C8A96E&cache_seconds=1800" alt="GitHub Stats"/>
+    &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadFayyaz&layout=compact&theme=github_dark&hide_border=true&title_color=C8A96E&cache_seconds=1800" alt="Top Languages"/>
 </div>
 
 <div align="center">
