@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamad+Fayyaz+👋;Full-Stack+Web+Developer;PHP+%7C+TypeScript+%7C+Laravel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=C8A96E&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Mohamad+Fayyaz+👋;Full-Stack+Web+Developer;PHP+%7C+Python+%7C+Laravel+%7C+Flask)](https://git.io/typing-svg)
 
 <p>
   <a href="https://linkedin.com/in/mohamad-fayyaz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -20,15 +20,15 @@ const fayyaz = {
   name:      "Mohamad Fayyaz",
   role:      "Full-Stack Web Developer",
   education: "Computer Science — Informatics Engineering",
-  focus:     ["Web Development", "Clean Architecture", "UI/UX"],
-  stack:     ["TypeScript", "PHP", "Laravel", "React", "MySQL"],
+  focus:     ["Web Development", "Computer Vision", "Devops"],
+  stack:     ["TypeScript", "PHP", "Laravel", "Python", "Flask", "MySQL"],
   status:    "🟢 Open to opportunities",
 };
 ```
 
 - 🎓 Mahasiswa **Informatika** yang passionate di bidang web development
-- 🚀 Sedang membangun project **health-tech** dan **productivity tools**
-- 💡 Tertarik pada **clean code**, **software architecture**, dan **great UX**
+- 🚀 Sedang membangun project **Web Builder** dan **productivity tools**
+- 💡 Tertarik pada **Web Development**, **Computer Vision**, dan **DevOps**
 - 🌱 Currently learning: **Advanced TypeScript** & **Laravel ecosystem**
 
 ---
@@ -56,7 +56,6 @@ const fayyaz = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
